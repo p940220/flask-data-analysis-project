@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+psycopg2-binary
+selenium
+pandas
+numpy
+scikit-learn
+webdriver-manager
+python-dotenv
